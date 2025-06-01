@@ -1,5 +1,5 @@
 ## Brain Tumor Classification Using Deep Learning
-This project focuses on classifying brain tumors from MRI scans using deep learning, implementing both a custom Convolutional Neural Network (CNN) and transfer learning with a fine-tuned VGG16 model. The goal is to accurately detect and classify brain tumors into four distinct categories, aiding in early diagnosis and treatment planning.
+This project focuses on classifying brain tumors from MRI scans using deep learning, implementing both a custom Convolutional Neural Network (CNN) and transfer learning with a fine-tuned VGG16 model. The goal is to accurately detect and classify brain tumors into four distinct categories, aiding in early diagnosis and treatment planning.  
 
 ## Dataset
 
