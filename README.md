@@ -4,7 +4,7 @@ This project focuses on classifying brain tumors from MRI scans using deep learn
 ## Dataset
 
 
-The dataset used is the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) from **Kaggle**, consisting of labeled MRI images categorized into four classes:
+The dataset used is the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) from **Kaggle**, consisting of labeled MRI images categorized into four classes: 
 
 - **Glioma Tumor**
 - **Meningioma Tumor**
